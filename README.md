@@ -4,7 +4,7 @@ Collection of generic docs and relevant resources: standards, examples, data sou
 
 ## Generic scheme
 
-![scheme](https://lh4.googleusercontent.com/qWV1dA-Uz8X8ODG8Sj2n3bbLcRHbCaUyh4msUWT8Ai0VUTsq29ZIOaV-m4uN4XfcmWkCfkHcmdXI4gM=w2560-h1406)
+![scheme](https://docs.google.com/drawings/d/e/2PACX-1vQaobkIUFS506kMYK2X1kW1p6wrhgPbqe5FN6H7Zit0srTPWEk8XvDh_Zwihdkz4dgxNnfsNMHFFhcx/pub?w=960&h=720)
 
 ## Glossary
 
